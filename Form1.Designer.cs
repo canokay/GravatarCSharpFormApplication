@@ -57,21 +57,21 @@
             // 
             // textbox_mail
             // 
-            this.textbox_mail.Location = new System.Drawing.Point(132, 34);
+            this.textbox_mail.Location = new System.Drawing.Point(213, 34);
             this.textbox_mail.Margin = new System.Windows.Forms.Padding(6);
             this.textbox_mail.Name = "textbox_mail";
-            this.textbox_mail.Size = new System.Drawing.Size(510, 32);
+            this.textbox_mail.Size = new System.Drawing.Size(429, 32);
             this.textbox_mail.TabIndex = 2;
             // 
             // lblMail
             // 
             this.lblMail.AutoSize = true;
-            this.lblMail.Location = new System.Drawing.Point(37, 34);
+            this.lblMail.Location = new System.Drawing.Point(37, 37);
             this.lblMail.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblMail.Name = "lblMail";
-            this.lblMail.Size = new System.Drawing.Size(74, 26);
+            this.lblMail.Size = new System.Drawing.Size(164, 26);
             this.lblMail.TabIndex = 3;
-            this.lblMail.Text = "Email:";
+            this.lblMail.Text = "Gravatar Email:";
             // 
             // frmMain
             // 
